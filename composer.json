@@ -1,5 +1,5 @@
 {
-    "name": "jrm2k6/cloudder",
+    "name": "bizly/cloudder",
     "description": "Cloudinary API wrapper for Laravel",
     "keywords": ["laravel", "laravel4", "cloudinary", "api", "image", "upload"],
     "homepage": "https://github.com/jrm2k6/cloudder",
