@@ -3,7 +3,7 @@
 namespace JD\Cloudder;
 
 use Illuminate\Support\ServiceProvider;
-use Cloudinary;
+use Cloudinary\Cloudinary;
 
 class CloudderServiceProvider extends ServiceProvider
 {
